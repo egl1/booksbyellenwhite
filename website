@@ -1,3 +1,10 @@
 <!DOCTYPE HTML/>
 <h2>Hello World!</H2>
-<embed src="stepstochrist00whit_1.pdf" type="pdf" width="800" height="1200"
+    <embed
+    src="stepstochrist00whit_1.pdf"
+    type="application/pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></embed>
